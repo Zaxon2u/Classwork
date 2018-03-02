@@ -33,6 +33,10 @@ public class Fraction
 
 
     }
+    public String toString()
+    {
+        return num + "/" + denom;
+    }
 
 }
 
